@@ -1,0 +1,28 @@
+{
+	"promotions": [{
+			"promotionId": 1,
+			"skuIds": [
+				"A"
+			],
+			"quantity": 3,
+			"offerAmount": 130
+		},
+		{
+			"promotionId": 2,
+			"skuIds": [
+				"B"
+			],
+			"quantity": 2,
+			"offerAmount": 45
+		},
+		{
+			"promotionId": 3,
+			"skuIds": [
+				"C",
+				"D"
+			],
+			"quantity": 1,
+			"offerAmount": 30
+		}
+	]
+}
